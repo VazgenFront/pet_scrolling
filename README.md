@@ -3,3 +3,4 @@ Simple website created using HTML, CSS &amp; Javascript with smooth scroll effec
 In these project are shown technologies like: responsive design, DOM manipulations, gradients, display grid, cross browser template making, pseudo elements.
 # pet_scrolling
 # pet_scrolling
+# pet_scrolling
